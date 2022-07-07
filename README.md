@@ -1,1 +1,1 @@
-# robot-github-access
+# robot-gitlab-access
